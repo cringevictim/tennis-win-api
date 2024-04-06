@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tennis-win-api", "tennis-win-api\tennis-win-api.vcxproj", "{424DDB9C-0E33-4D87-8E2C-50A5E72BE638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{424DDB9C-0E33-4D87-8E2C-50A5E72BE638}.Debug|x64.ActiveCfg = Debug|x64
+		{424DDB9C-0E33-4D87-8E2C-50A5E72BE638}.Debug|x64.Build.0 = Debug|x64
+		{424DDB9C-0E33-4D87-8E2C-50A5E72BE638}.Debug|x86.ActiveCfg = Debug|Win32
+		{424DDB9C-0E33-4D87-8E2C-50A5E72BE638}.Debug|x86.Build.0 = Debug|Win32
+		{424DDB9C-0E33-4D87-8E2C-50A5E72BE638}.Release|x64.ActiveCfg = Release|x64
+		{424DDB9C-0E33-4D87-8E2C-50A5E72BE638}.Release|x64.Build.0 = Release|x64
+		{424DDB9C-0E33-4D87-8E2C-50A5E72BE638}.Release|x86.ActiveCfg = Release|Win32
+		{424DDB9C-0E33-4D87-8E2C-50A5E72BE638}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ADDC590-5FE7-482F-8A9B-43F40D0FCEA2}
+	EndGlobalSection
+EndGlobal
